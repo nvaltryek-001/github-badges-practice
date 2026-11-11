@@ -1,1 +1,1 @@
-# github-badges-practice gooo.
+# github-badges-practice gooo
